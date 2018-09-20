@@ -11,7 +11,7 @@ github_repo: "https://github.com/limaolliang/limaolliang.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Stay Hungry, Stay Foolish!"
 sidebar-avatar: /img/aboutMe.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,7 +19,7 @@ sidebar-avatar: /img/aboutMe.jpg      # use absolute URL, seeing it's used in bo
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     白马非马
+zhihu_username:     bai-ma-fei-ma-96-98
 github_username:    limaolliang
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
@@ -56,6 +56,7 @@ kramdown:
 
 
 # 评论系统
+# todo:加上disqus评论系统
 Disqus（https://disqus.com/）
 disqus_username: limaolliang
 
@@ -78,7 +79,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
