@@ -57,8 +57,8 @@ kramdown:
 
 # 评论系统
 # todo:加上disqus评论系统
-#Disqus（https://disqus.com/）
-disqus_username: limaolliang
+# Disqus（https://disqus.com/）
+# disqus_username: limaolliang
 
 # Gitalk
 #gitalk:
@@ -79,7 +79,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: 'www.maoliangli.cn'               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: 'www.maoliangli.com'               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
